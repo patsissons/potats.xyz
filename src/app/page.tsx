@@ -11,7 +11,7 @@ export default function Home() {
         <Image
           className={styles.logo}
           src="/potats.png"
-          alt="this is potats"
+          alt="This is a potats"
           width={456}
           height={482}
           priority
